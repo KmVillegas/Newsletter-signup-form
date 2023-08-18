@@ -232,14 +232,6 @@ ul>li>img {
     }
 
     .imageContainer {
-        /* flex-basis: 300px;
-        height: 600px;
-        align-self: center;
-        
-        background-position: right;
-        background-size: auto 100%;
-        background-repeat: no-repeat;
-        border-radius: 10px; */
         background-image: url('./assets/images/illustration-sign-up-mobile.svg');
         flex-basis: 200px;
         width: 100%;
@@ -252,14 +244,3 @@ ul>li>img {
 .hidden {
     display: none;
 }
-
-/* ### Primary
-
-- Tomato: hsl(4, 100%, 67%)
-
-### Neutral
-
-- Dark Slate Grey: hsl(234, 29%, 20%)
-- Charcoal Grey: hsl(235, 18%, 26%)
-- Grey: hsl(231, 7%, 60%)
-- White: hsl(0, 0%, 100%) */
