@@ -7,12 +7,12 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-    -[Desktop Design](#desktop-design)
-    -[Desktop Active State](#desktop-active-state)
-    -[Desktop Error State](#desktop-error-state)
-    -[Desktop Success](#desktop-success)
-    -[Mobile Design](#mobile-design)
-    -[Mobile Success](#mobile-success)
+    - [Desktop Design](#desktop-design)
+    - [Desktop Active State](#desktop-active-state)
+    - [Desktop Error State](#desktop-error-state)
+    - [Desktop Success](#desktop-success)
+    - [Mobile Design](#mobile-design)
+    - [Mobile Success](#mobile-success)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -39,7 +39,7 @@ Users should be able to:
 ![](assets/screenshots/desktop-design.png)
 
 #### Desktop Active State
-![](assets/screenshots/active.png)
+![](assets/screenshots/desktop-active.png)
 
 #### Desktop Error State
 ![](assets/screenshots/desktop-error-state.png)
